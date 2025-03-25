@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pritish & I'm form Cuttack, Odisha</h2>
+<h2 align="left">Hi 👋! My name is Pritish & I'm from Cuttack, Odisha</h2>
 
 ###
 
